@@ -1,27 +1,5 @@
-# Challange
+# AngularChallengeSPA
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9.
+Nesse desafio utlizei Angular com Bootstrap e encontrei dificuldades com a parte de API, foi algo novo para mim então de fato foi um desafio e tanto pois tive que aprender os conceitos e funcionalidades bem como sua utilização. Também não sabia do conceito de SPA e foi outra parte desafiadora para eu aprender e desenvolver. Por conta disso, não consegui focar tanto no visual e aqui já menciono um dos conceitos de engenharia de Software que utilzei, o KISS (Keep It Simple, Stupid!), devido ao pouco tempo que tive disponivel para me didicar ao desafio o projeto todo foi em cima desse conceito.
+Tem muita coisa que pode ser implementada e melhorada no projeto, pesquisas, visual, organizar por categorias.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
