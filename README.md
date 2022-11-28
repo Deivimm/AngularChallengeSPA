@@ -16,7 +16,7 @@ Até então não sabia de SPA e foi através desse desafio que passei a conhecer
 </p>
 
 <p>
-  <img src="assets/Home.pngf" width="855"/>
+  <img src="assets/Home.png" width="855"/>
 </p>
 
 <p>
